@@ -1,0 +1,19 @@
+{
+  "name": "open-diploma-browser-extension",
+  "version": "1.0.0",
+  "description": "View, verify, and sign diplomas in the browser.",
+  "main": "extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbrickner/open-diploma-browser-extension.git"
+  },
+  "author": "Will Brickner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbrickner/open-diploma-browser-extension/issues"
+  },
+  "homepage": "https://github.com/wbrickner/open-diploma-browser-extension#readme"
+}
